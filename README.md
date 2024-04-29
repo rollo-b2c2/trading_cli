@@ -13,7 +13,7 @@
 
 
 ### Todos
-- extended to use Clap with the option of using different assets and exchanges 
+- extend app to use Clap with the option of using different assets and exchanges 
 - Build a tui around the cli with Table support for rendering the order table
 - Fix arbitrage detection
 - Try using different exchanges and datasets
