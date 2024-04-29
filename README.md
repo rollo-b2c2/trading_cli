@@ -19,4 +19,4 @@
 - Try using different exchanges and datasets
 
 ### Current Problems
-- Data sets given have a negative spread (min ask is greater than max bid ), which means we'd be trading against 
+- Data sets given have a negative spread (min ask is greater than max bid ), which means we'd be trading against the market
